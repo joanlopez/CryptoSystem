@@ -14,9 +14,11 @@ Cryptographic system to encrypt, decrypt, sign, verify, generate keys and more w
 1. Install pip (python package manager)
 2. Install packages with pip:
   * pip install pycrypto
-  * pip install ecdsa 
+  * pip install ecdsa
+(Other methods are available)
 
 ###### Run it from command line ######
 python crypto.py
+(Other methods are available)
 
 The command line interface is only in catalan for now
