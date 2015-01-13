@@ -22,3 +22,10 @@ python crypto.py
 (Other methods are available)
 
 The command line interface is only in catalan for now
+
+TODO List:
+* More languages
+* More variations of the algorithms (for example all AES versions)
+* Improve the code (method extraction and other refactors)
+* Improve the usage with cli (-- style)
+* Add testing
